@@ -1,1 +1,1 @@
-# Hands-on-Lab---Writing-Your-First-Python-Cod
+# Hands-on-Lab---Writing-Your-First-Python-Code
